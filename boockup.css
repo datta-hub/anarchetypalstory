@@ -344,6 +344,7 @@ a {
   transform: translate3d(-200px ,-284px ,57px) translate3d(0,0, -114px) rotateY(180deg);
 }
 #credit {
+  visibility:hidden:
   position: fixed;
   bottom: 1em;
   right: 1em;
