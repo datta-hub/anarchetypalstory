@@ -6,7 +6,7 @@
   <title>Awesome book</title>
   <meta name="description" content="Awesome book generated with boockup.marco.land">
   <meta name="author" content="boockup.marco.land">
-  <link rel="stylesheet" href="css/boockup.css">
+  <link rel="stylesheet" href="boockup.css">
 </head>
 <body>
   <div class="container">
