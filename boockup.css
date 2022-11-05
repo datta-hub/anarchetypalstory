@@ -1,9 +1,7 @@
 
 /* Created with http://boockup.marco.land */
 
-.boockup {
-zoom:120%;
-}
+
 @-webkit-keyframes rotatingAnimationX {
   0%{
     -webkit-transform: rotateX(0deg);
@@ -116,6 +114,7 @@ a {
   transform-style: preserve-3d;
 }
 .boockup {
+  zoom:120%;
   -webkit-transform: rotateX(5deg) rotateY(-33deg) rotateZ(0deg);
   transform: rotateX(5deg) rotateY(-33deg) rotateZ(0deg);
 }
@@ -281,6 +280,8 @@ a {
   transform-style: preserve-3d;
 }
 .boockup {
+ 
+zoom:120%;
   -webkit-transform: rotateX(5deg) rotateY(-33deg) rotateZ(0deg);
   transform: rotateX(5deg) rotateY(-33deg) rotateZ(0deg);
 }
